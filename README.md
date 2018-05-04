@@ -1,3 +1,4 @@
 # lb
-Using nginx as load balancer.\n
+Using nginx as load balancer.
+
 Use 'start nginx' command to start nginx.
